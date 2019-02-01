@@ -1,0 +1,6 @@
+*.jar
+*.properties
+*.MF
+apache-tomcat-9.0.14/*
+RestaurantProject/build/*
+RestaurantProject/.settings/*
